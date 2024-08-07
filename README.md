@@ -1,4 +1,4 @@
-# file-wav-converter
+# anyfile-wav-converter
 
 ## from file to wav
 
